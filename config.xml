@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="mlife.chesscn" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Chess Problems</name>
+    <name>棋问题, 国际象棋战术手册</name>
     <description>
-      Chess Problems
+      棋问题, 国际象棋战术手册
     </description>
     <author email="info@mlife-media.by" href="http://mlife-media.by">MLife Media</author>
 	<content src="index.html" />
